@@ -166,4 +166,5 @@ void upload(int s, int n, char buf[]) {
 	printf("done!\n");
 
 	fclose(output);
+	printf("test test\n\n");
 }
